@@ -1,0 +1,9 @@
+loguru
+pydash
+xxhash
+pyyaml
+pybind11
+pydantic
+setuptools
+flatbuffers
+alive-progress

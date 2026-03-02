@@ -1,0 +1,17 @@
+{
+    "launch": {
+        "env": {
+            "PYTHONPATH": "${workspaceFolder}${pathSeparator}${env:PYTHONPATH}"
+        },
+        "configurations": [],
+        "compounds": []
+    },
+    "terminal.integrated.env.windows": {
+        "PYTHONPATH": "${workspaceFolder}${pathSeparator}${env:PYTHONPATH}"
+    },
+    "python.analysis.typeCheckingMode": "basic",
+    "python.analysis.autoImportCompletions": true,
+    "files.exclude": {
+        "**/__pycache__": true
+    },
+}

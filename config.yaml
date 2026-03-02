@@ -1,0 +1,5 @@
+# 存放从Excel.zip解压出来之后的.bytes文件的文件夹路径
+excel_path: "example"
+
+# 存放数据库ExcelDB.db的路径
+excel_db_path: "example"
